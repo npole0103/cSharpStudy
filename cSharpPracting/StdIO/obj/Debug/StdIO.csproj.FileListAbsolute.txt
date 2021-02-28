@@ -1,0 +1,7 @@
+C:\Users\KimSuHeon\source\repos\npole0103\cSharpStudy\cSharpPracting\StdIO\bin\Debug\StdIO.exe.config
+C:\Users\KimSuHeon\source\repos\npole0103\cSharpStudy\cSharpPracting\StdIO\bin\Debug\StdIO.exe
+C:\Users\KimSuHeon\source\repos\npole0103\cSharpStudy\cSharpPracting\StdIO\bin\Debug\StdIO.pdb
+C:\Users\KimSuHeon\source\repos\npole0103\cSharpStudy\cSharpPracting\StdIO\obj\Debug\StdIO.csprojAssemblyReference.cache
+C:\Users\KimSuHeon\source\repos\npole0103\cSharpStudy\cSharpPracting\StdIO\obj\Debug\StdIO.csproj.CoreCompileInputs.cache
+C:\Users\KimSuHeon\source\repos\npole0103\cSharpStudy\cSharpPracting\StdIO\obj\Debug\StdIO.exe
+C:\Users\KimSuHeon\source\repos\npole0103\cSharpStudy\cSharpPracting\StdIO\obj\Debug\StdIO.pdb

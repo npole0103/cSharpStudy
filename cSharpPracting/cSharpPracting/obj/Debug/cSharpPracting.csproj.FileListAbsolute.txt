@@ -1,0 +1,7 @@
+C:\Users\KimSuHeon\source\repos\npole0103\cSharpStudy\cSharpPracting\cSharpPracting\bin\Debug\cSharpPracting.exe.config
+C:\Users\KimSuHeon\source\repos\npole0103\cSharpStudy\cSharpPracting\cSharpPracting\bin\Debug\cSharpPracting.exe
+C:\Users\KimSuHeon\source\repos\npole0103\cSharpStudy\cSharpPracting\cSharpPracting\bin\Debug\cSharpPracting.pdb
+C:\Users\KimSuHeon\source\repos\npole0103\cSharpStudy\cSharpPracting\cSharpPracting\obj\Debug\cSharpPracting.csproj.CoreCompileInputs.cache
+C:\Users\KimSuHeon\source\repos\npole0103\cSharpStudy\cSharpPracting\cSharpPracting\obj\Debug\cSharpPracting.exe
+C:\Users\KimSuHeon\source\repos\npole0103\cSharpStudy\cSharpPracting\cSharpPracting\obj\Debug\cSharpPracting.pdb
+C:\Users\KimSuHeon\source\repos\npole0103\cSharpStudy\cSharpPracting\cSharpPracting\obj\Debug\cSharpPracting.csprojAssemblyReference.cache
