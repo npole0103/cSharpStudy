@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cSharpPracting", "cSharpPra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StdIO", "StdIO\StdIO.csproj", "{BEEFC41C-6F2E-4205-BD52-188A4AB5638E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "School", "School\School.csproj", "{4CC46B0E-C02D-4D9E-83BC-53B04327D843}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{BEEFC41C-6F2E-4205-BD52-188A4AB5638E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BEEFC41C-6F2E-4205-BD52-188A4AB5638E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BEEFC41C-6F2E-4205-BD52-188A4AB5638E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CC46B0E-C02D-4D9E-83BC-53B04327D843}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CC46B0E-C02D-4D9E-83BC-53B04327D843}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CC46B0E-C02D-4D9E-83BC-53B04327D843}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CC46B0E-C02D-4D9E-83BC-53B04327D843}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
