@@ -1,0 +1,7 @@
+C:\Users\KimSuHeon\source\repos\npole0103\cSharpStudy\cSharpPracting\IterationStatements\bin\Debug\IterationStatements.exe.config
+C:\Users\KimSuHeon\source\repos\npole0103\cSharpStudy\cSharpPracting\IterationStatements\bin\Debug\IterationStatements.exe
+C:\Users\KimSuHeon\source\repos\npole0103\cSharpStudy\cSharpPracting\IterationStatements\bin\Debug\IterationStatements.pdb
+C:\Users\KimSuHeon\source\repos\npole0103\cSharpStudy\cSharpPracting\IterationStatements\obj\Debug\IterationStatements.csprojAssemblyReference.cache
+C:\Users\KimSuHeon\source\repos\npole0103\cSharpStudy\cSharpPracting\IterationStatements\obj\Debug\IterationStatements.csproj.CoreCompileInputs.cache
+C:\Users\KimSuHeon\source\repos\npole0103\cSharpStudy\cSharpPracting\IterationStatements\obj\Debug\IterationStatements.exe
+C:\Users\KimSuHeon\source\repos\npole0103\cSharpStudy\cSharpPracting\IterationStatements\obj\Debug\IterationStatements.pdb

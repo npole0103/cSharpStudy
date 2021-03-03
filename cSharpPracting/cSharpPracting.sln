@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StdIO", "StdIO\StdIO.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "School", "School\School.csproj", "{4CC46B0E-C02D-4D9E-83BC-53B04327D843}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IterationStatements", "IterationStatements\IterationStatements.csproj", "{418B229C-3036-44FA-97F9-6F763E4FDABB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exception", "Exception\Exception.csproj", "{009072FB-4265-4E6E-A122-561D7CF372A3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{4CC46B0E-C02D-4D9E-83BC-53B04327D843}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CC46B0E-C02D-4D9E-83BC-53B04327D843}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4CC46B0E-C02D-4D9E-83BC-53B04327D843}.Release|Any CPU.Build.0 = Release|Any CPU
+		{418B229C-3036-44FA-97F9-6F763E4FDABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{418B229C-3036-44FA-97F9-6F763E4FDABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{418B229C-3036-44FA-97F9-6F763E4FDABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{418B229C-3036-44FA-97F9-6F763E4FDABB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{009072FB-4265-4E6E-A122-561D7CF372A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{009072FB-4265-4E6E-A122-561D7CF372A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{009072FB-4265-4E6E-A122-561D7CF372A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{009072FB-4265-4E6E-A122-561D7CF372A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

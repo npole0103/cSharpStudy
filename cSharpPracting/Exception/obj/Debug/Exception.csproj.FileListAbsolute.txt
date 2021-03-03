@@ -1,0 +1,6 @@
+C:\Users\KimSuHeon\source\repos\npole0103\cSharpStudy\cSharpPracting\Exception\bin\Debug\Exception.exe.config
+C:\Users\KimSuHeon\source\repos\npole0103\cSharpStudy\cSharpPracting\Exception\bin\Debug\Exception.exe
+C:\Users\KimSuHeon\source\repos\npole0103\cSharpStudy\cSharpPracting\Exception\bin\Debug\Exception.pdb
+C:\Users\KimSuHeon\source\repos\npole0103\cSharpStudy\cSharpPracting\Exception\obj\Debug\Exception.csproj.CoreCompileInputs.cache
+C:\Users\KimSuHeon\source\repos\npole0103\cSharpStudy\cSharpPracting\Exception\obj\Debug\Exception.exe
+C:\Users\KimSuHeon\source\repos\npole0103\cSharpStudy\cSharpPracting\Exception\obj\Debug\Exception.pdb
